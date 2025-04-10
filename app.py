@@ -4,6 +4,6 @@ def lambda_handler(event, context):
 
     # Return a simple JSON response
     return {
-        "statusCode": 200,
+        "statusCode": 300,
         "body": "rabbani from Lambda!"
     }
